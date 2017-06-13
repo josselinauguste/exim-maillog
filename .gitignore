@@ -16,4 +16,4 @@ paket-files/
 *.nuget.props
 *.nuget.targets
 
-data/*
+data/**/*.gz
